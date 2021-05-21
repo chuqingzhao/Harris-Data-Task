@@ -6,6 +6,8 @@ cqzhao@uchicago.edu
 
 **Data:  data set with demographic information of students with 141 observations**
 
+**To read full Python script**:https://github.com/LouisaZhao1998/Harris-Data-Task/blob/main/Harris%20Data%20Task.ipynb 
+
 
 **Task**: 1. Perform predictive modeling (the choice of models to use is up to you; please include logistic regression and any other models you’d like) with the dependent variable being “Status” (Status = 1 means attending and status = 0 means not attending) and the independent variables being the rest of the variables available in this data set. 2. Clean data and consider missing data. 3. Interesting observations or patterns that you see from the data.
 
